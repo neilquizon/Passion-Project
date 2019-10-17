@@ -26,3 +26,7 @@ An app that generates random lottery numbers for people in Canada who can't thin
 1. Login / Registration page
 2. Save generated numbers for future reference
 
+### Relational Databse
+
+<img src="https://drive.google.com/file/d/1DtoRmyCyHFbhS8s7iKx0RdcAso5Gls6X/view?usp=sharing" alt="relational databse">
+
