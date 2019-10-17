@@ -25,3 +25,7 @@ An app that generates random lottery numbers for people who can't think of any n
 
 1. Login / Registration page
 2. Save generated numbers for future reference
+
+### Relational Database
+
+<img src="relational database.JPG" width="800">
