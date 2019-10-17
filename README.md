@@ -4,7 +4,7 @@
 
 ### Summary
 
-An app that generates random lottery numbers for people in Canada who can't think of any numbers and don't want the lottery machine to pick numbers for them. There are variety of lottery in Canada you choose from (Example: Lotto Max, Lotto 6/49, etc.). You can also login and save the numbers you generated for future reference.
+An app that generates random lottery numbers for people in Canada who can't think of any numbers and don't want the lottery machine to pick numbers for them. There is a variety of lottery games in Canada to choose from (Example: Lotto Max, Lotto 6/49, etc.). You can also login and save the numbers you generated for future reference.
 
 ### Functional Requirements
 
@@ -19,7 +19,7 @@ An app that generates random lottery numbers for people in Canada who can't thin
 ### Must Have Features
 
 1. Generate Random Lottery Numbers
-2. Wide variety of canada lottery to choose from
+2. Wide variety of canada lottery games to choose from
 
 ### Nice to Have Features
 
