@@ -35,3 +35,5 @@ An app that generates random lottery numbers for people who can't think of any n
 <img src="passion-prototype1.jpg">
 <br>
 <img src="passion-prototype2.jpg">
+<br>
+<img src="passion-prototype3.jpg">
