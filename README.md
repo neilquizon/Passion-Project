@@ -29,3 +29,7 @@ An app that generates random lottery numbers for people who can't think of any n
 ### Relational Database
 
 <img src="relational database.JPG" width="800">
+
+### Prototype
+
+<img src="passion-prototype1.jpg">
